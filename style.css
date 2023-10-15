@@ -1,0 +1,29 @@
+h1 {
+    font-size: 50px;
+    color: burlywood
+}
+
+body {
+    font-family: 'Gabarito', sans-serif;
+    margin: 0%;
+}
+
+.division-1 {
+    width: 100%;
+    padding-left: 5%;
+}
+
+.section-1 {
+    display: flex;
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.division-1 img {
+    width: 85%;
+    padding-top: 5%;
+}
+
+.dark-color {
+    color: darkcyan;
+}
