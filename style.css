@@ -21,9 +21,13 @@ body {
 
 .division-1 img {
     width: 85%;
-    padding-top: 5%;
+    padding-top: 10%;
 }
 
 .dark-color {
     color: darkcyan;
+}
+
+h2 {
+    color: goldenrod;
 }
