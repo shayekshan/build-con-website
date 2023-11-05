@@ -31,3 +31,17 @@ body {
 h2 {
     color: goldenrod;
 }
+
+.section-2 {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+#number-1 {
+    text-align: center;
+}
+
+.division-2 {
+    width: 80%;
+    padding-inline: 5%;
+}
