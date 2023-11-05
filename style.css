@@ -9,18 +9,18 @@ body {
 }
 
 .division-1 {
-    width: 100%;
-    padding-left: 5%;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 
 .section-1 {
     display: flex;
-    background-image: url(image/top-banner.png);
-    background-repeat: no-repeat;
 }
 
 .division-1 img {
-    width: 85%;
+    width: 80%;
     padding-top: 10%;
 }
 
@@ -32,16 +32,29 @@ h2 {
     color: goldenrod;
 }
 
-.section-2 {
-    display: flex;
-    margin-bottom: 100px;
-}
-
-#number-1 {
-    text-align: center;
-}
-
 .division-2 {
     width: 80%;
     padding-inline: 5%;
+}
+
+.section-2 {
+    display: flex;
+}
+
+.section-2 h3 {
+    color: rgb(21, 143, 134);
+}
+
+.section-2 div {
+    box-shadow: 5px 6px 38px gray;
+    height: 100%;
+}
+
+#line-up-1 {
+    border-left: 7px solid tomato;
+}
+
+#line-up-2 {
+    border-left: 7px solid palegreen;
+    border-image-slice: 1;
 }
